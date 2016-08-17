@@ -1,0 +1,2 @@
+D:\Personal\Self\Career 2016\SG JLL\ContactsUI\SparkleXrmCrmPackage\CrmPackage\WebResources\js\ClientHooks.dll
+D:\Personal\Self\Career 2016\SG JLL\ContactsUI\ClientHooks\obj\Release\ClientHooks.dll

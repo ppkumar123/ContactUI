@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Register xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.microsoft.com/crm/2011/tools/pluginregistration">
+  <Solutions>
+    <Solution Assembly="SparkleXrm.Plugins.dll" Id="26ab778a-cc62-e611-80f3-c4346bdc3e51" IsolationMode="Sandbox" SourceType="Database" />
+    <Solution Assembly="SparkleXrm.Workflow.dll" Id="29ab778a-cc62-e611-80f3-c4346bdc3e51" IsolationMode="Sandbox" SourceType="Database" />
+  </Solutions>
+  <XamlWorkflows />
+</Register>
